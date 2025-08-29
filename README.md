@@ -34,6 +34,8 @@ trilha-net-ego-desafio/ ├── README.md ├── Program.cs ├── Model
 
 ---
 
+![Status do Build](https://github.com/Lalalucas/trilha-net-ego-desafio/actions/workflows/build.yml/badge.svg)
+
 ## 💡 Conceitos Aplicados
 
 ### 1. Abstração
