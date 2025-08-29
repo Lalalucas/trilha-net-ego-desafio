@@ -6,25 +6,25 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT) 
 [![Status Concluído](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge)](https://github.com/digitalinnovationone/trilha-net-ego-desafio)
 
-**Repositório do Desafio:** [trilha-net-ego-desafio](https://github.com/digitalinnovationone/trilha-net-ego-desafio)  
-**Canal Youtube:** Leonardo Buta  
-**GitHub do Mentor:** [leonardo-buta](https://github.com/leonardo-buta)  
-**LinkedIn do Mentor:** [Leonardo Buta](https://www.linkedin.com/in/leonardo-buta)  
-**Instagram do Mentor:** @libuta  
+**📂 Repositório do Desafio:** [trilha-net-ego-desafio](https://github.com/digitalinnovationone/trilha-net-ego-desafio)  
+**🎥 Canal Youtube:** Leonardo Buta  
+**💻 GitHub do Mentor:** [leonardo-buta](https://github.com/leonardo-buta)  
+**🔗 LinkedIn do Mentor:** [Leonardo Buta](https://www.linkedin.com/in/leonardo-buta)  
+**📸 Instagram do Mentor:** @libuta  
 
 ---
 
 ## 📝 Introdução
 
-Este projeto foi desenvolvido para atender ao desafio de Programação Orientada a Objetos (POO) da Digital Innovation One. O objetivo principal é criar um sistema em **C# .NET 6** que modele um **smartphone genérico**, e a partir dele, implementar modelos específicos como **Nokia** e **iPhone**.  
+Este projeto foi desenvolvido para atender ao desafio de **Programação Orientada a Objetos (POO)** da Digital Innovation One. O objetivo principal é criar um sistema em **C# .NET 6** que modele um **smartphone genérico**, e a partir dele, implementar modelos específicos como **Nokia** e **iPhone**.  
 
 O foco da solução foi aplicar os **pilares da POO**:
 
-- **Abstração:** Criar um modelo genérico de smartphone que define propriedades e comportamentos essenciais.  
-- **Herança:** Reutilizar código comum em classes específicas (Nokia e iPhone).  
-- **Polimorfismo:** Permitir que cada classe filha tenha comportamentos específicos para métodos compartilhados.  
+- 🔹 **Abstração:** Criar um modelo genérico de smartphone que define propriedades e comportamentos essenciais.  
+- 🔹 **Herança:** Reutilizar código comum em classes específicas (Nokia e iPhone).  
+- 🔹 **Polimorfismo:** Permitir que cada classe filha tenha comportamentos específicos para métodos compartilhados.  
 
-O projeto inclui **diagrama UML**, badges visuais e documentação detalhada sobre a arquitetura do sistema.
+O projeto inclui **diagrama UML**, badges visuais, **GIFs de demonstração** e documentação detalhada sobre a arquitetura do sistema.
 
 ---
 
@@ -34,18 +34,20 @@ trilha-net-ego-desafio/ ├── README.md ├── Program.cs ├── Model
 
 ---
 
-![Status do Build](https://github.com/Lalalucas/trilha-net-ego-desafio/actions/workflows/build.yml/badge.svg)
+![⚙️ Status do Build](https://github.com/Lalalucas/trilha-net-ego-desafio/actions/workflows/build.yml/badge.svg)
+
+---
 
 ## 💡 Conceitos Aplicados
 
-### 1. Abstração
-- **Classe abstrata `Smartphone`**: define propriedades e métodos essenciais que todas as subclasses devem implementar.
+### 1️⃣ Abstração
+- **Classe abstrata `Smartphone`**: define propriedades e métodos essenciais que todas as subclasses devem implementar.  
 - **Método `InstalarAplicativo()`** declarado como `abstract`, obrigando cada celular a ter sua própria implementação.
 
-### 2. Herança
+### 2️⃣ Herança
 - **Classes `Nokia` e `Iphone`**: herdam de `Smartphone`, reutilizando métodos comuns e propriedades.
 
-### 3. Polimorfismo
+### 3️⃣ Polimorfismo
 - **Método `InstalarAplicativo()` sobrescrito** em cada modelo, permitindo comportamentos distintos.
 
 ---
@@ -72,6 +74,19 @@ classDiagram
 
     Smartphone <|-- Nokia
     Smartphone <|-- Iphone
+
+
+---
+
+🎬 Demonstração do Projeto
+
+Veja abaixo uma prévia animada do funcionamento do sistema:
+
+
+
+> 💡 Dica: Suba seu GIF na pasta assets do repositório ou use um link direto para garantir que ele seja exibido corretamente.
+
+
 
 
 ---
