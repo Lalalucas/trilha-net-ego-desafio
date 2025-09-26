@@ -80,9 +80,6 @@ classDiagram
 
 🎬 Demonstração do Projeto
 
-Veja abaixo uma prévia animada do funcionamento do sistema:
-
-
 ---
 
 👨‍💻 Sobre o Desenvolvedor
@@ -99,9 +96,6 @@ Lucas Gabriel de Morais
 Como neurodivergente (Síndrome de Asperger), possuo hiperfoco, atenção aos detalhes e resiliência, atuando com excelência em ambientes técnicos sensíveis e de alta complexidade.
 
 📂 Portfólio e Contato
-
-    
-
 
 ---
 
