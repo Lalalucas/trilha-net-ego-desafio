@@ -83,12 +83,6 @@ classDiagram
 Veja abaixo uma prévia animada do funcionamento do sistema:
 
 
-
-> 💡 Dica: Suba seu GIF na pasta assets do repositório ou use um link direto para garantir que ele seja exibido corretamente.
-
-
-
-
 ---
 
 👨‍💻 Sobre o Desenvolvedor
